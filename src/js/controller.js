@@ -1,4 +1,3 @@
-// import icons from '../img/icons.svg'; //parcel 1.0
 import * as model from './model.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 import recipeView from './views/recipeView.js';
